@@ -182,7 +182,6 @@ vuejs怎么实现跨域 vue-resource:Supports latest Firefox, Chrome, Safari, Op
 
 [plainObject的作用](http://kodango.com/javascript-oop-type-system)<br/>
 
-
 ### 参考：
 [ajax跨域，这应该是最全的解决方案了](https://segmentfault.com/a/1190000012469713)<br/>
 [jsonp的原理与实现](https://segmentfault.com/a/1190000007665361)<br/>
